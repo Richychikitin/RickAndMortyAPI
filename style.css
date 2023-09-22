@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(250, 211, 166);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#characterList{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
